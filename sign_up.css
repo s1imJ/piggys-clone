@@ -1,0 +1,103 @@
+*{
+   box-sizing: border-box;
+}
+
+body{
+   background: #183e91;
+   margin: 60px 0;
+   height: 100vh;
+   font-family: ;
+}
+
+#safe-logo{
+   text-align: center;
+}
+
+.form_page{
+   background: #ffffff;
+   padding: 25px;
+   margin: 50px auto;
+   width: 350px;
+   border-radius: 25px 25px 25px 0;
+}
+
+header{
+   line-height: 2px;
+   text-align: center;
+}
+
+.top{
+   font-size: 18px;
+   font-weight: bold;
+   color: #183e91;
+   font-family: ;
+}
+
+.bottom{
+   font-size: 12px;
+   color: grey;
+   line-height: 20px;
+   font-family: ;
+}
+
+label{
+   font-size: 12px;
+   color: black;
+   font-weight: bold;
+   font-family: ;
+}
+
+section > div{
+   margin-top: 35px;
+   line-height: 10px;
+   display: grid;
+}
+
+button{
+   border: none;
+   border-radius: 8px 8px 8px 0;
+   color: #ffffff;
+   background: #2358cf;
+   padding: 15px 70px;
+   margin-bottom: 15px;
+   outline: none;
+}
+
+input{
+  border: none;
+  border-radius: 5px; 
+  background: #d5dfff;
+  opacity: 0.6;
+  height: 45px;
+  outline: none;
+  font-size: 16px;
+  color: black;
+  padding: 10px;
+}
+
+a{
+   text-decoration: none;
+   color: grey;
+}
+
+.align{
+   text-align: center;
+   margin: 15px;
+   color: grey;
+   font-size: 10px;
+}
+
+select{
+   border: none;
+   border-radius: 5px; 
+   background: #d5dfff;
+   opacity: 0.6;
+   height: 45px;
+   outline: none;
+   font-size: 16px;
+   color: black;
+   padding: 10px;
+}   padding: 15px;
+   border: none;
+   background: light-blue;
+}
